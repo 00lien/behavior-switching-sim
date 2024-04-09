@@ -1,0 +1,5 @@
+**.pyc
+/assets
+/logs
+pattern_*.txt
+config.ini
