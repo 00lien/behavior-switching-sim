@@ -10,7 +10,6 @@ from lib.soc.ground_station.controller import Controller
 from lib.soc.view.drone_trajectory import NBPlot
 from lib.soc.utils.keyboard_controller import KeyBoradController
 
-c = KeyBoradController()
 
 def main():
 

@@ -20,7 +20,6 @@ def main():
     controller = Controller()
     drone:Drone = Factory.buildServerDrone()
     controller.register_drone(drone)
-    detector = PoseDetector()
     
     drone.connect_sync()
     print("connected")

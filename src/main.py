@@ -1,5 +1,5 @@
 import sys
-sys.path.append('C:\Users\User\Desktop\Orion\Tello')
+sys.path.append('C:/Users/User/Desktop/Orion/Tello/Tello-Object-Tracking')
 ## tello scripts ? 
 
 import numpy as np
